@@ -14,11 +14,12 @@ Yo! This is the official repository for the Square Unboxed Hackathon. We still d
 
 ## Links
 
-**Devpost Link:** https://squareunboxed.devpost.com/
+**Hackathon Devpost Link:** https://squareunboxed.devpost.com/
 
 ## Contributing
-Please reference the Kanban Project board before executing pull requests into the repository. Branch changes are allowed. For major changes, please open an issue first to discuss what's going to be changed
-***
+
+Please reference the kanban project board before executing pull requests into the repository. Branch changes are allowed. For major changes, please open an issue first to discuss what's going to be changed.
+
 ![Version](https://img.shields.io/badge/Version-0.0.1-green?style=flat-square&logo=github)
 
 
